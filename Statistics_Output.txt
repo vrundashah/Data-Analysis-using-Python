@@ -1,0 +1,16 @@
+runfile('C:/Users/Vrunda B Shah/Desktop/KV/Python Project/V15.py', wdir='C:/Users/Vrunda B Shah/Desktop/KV/Python Project')
+{1.0: 91032, 2.0: 24864, 3.0: 7472}
+[1.0, 2.0, 3.0]
+(1.0, 91032)
+(2.0, 24864)
+(3.0, 7472)
+1.3226768692
+count    123368.000000
+mean          1.322677
+std           0.582832
+min           1.000000
+25%           1.000000
+50%           1.000000
+75%           2.000000
+max           3.000000
+Name: Risk, dtype: float64
